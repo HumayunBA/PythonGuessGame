@@ -1,4 +1,4 @@
-# PythonGuessGame
+# Python Memory Game
 
 This python memory game allows user to memorize the right sequence of 4 numbers or letters provided by randomly by the program. There is a range of dificulty such as "easy", "medium" and "hard". Once the numbers provided the numbers will vanish in 5 seconds and a shuffled version of the numbers will appear. Then the player must write the correct order of the numbers provided in the beginning.
 
